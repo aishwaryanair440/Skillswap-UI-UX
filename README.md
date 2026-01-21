@@ -78,7 +78,3 @@ SkillSwap-UI-UX/
          ├── presentation.pdf
          └── assets/
               └── placeholder.txt
-
-
-## 📦 Repository Structure
-
