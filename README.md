@@ -59,22 +59,22 @@ Our goal: create an intuitive platform that allows users to swap skills efficien
 - Next step: gather user feedback and explore potential website implementation
 
 ## Repositry Structure
-'''SkillSwap-UI-UX/
+```
+SkillSwap-UI-UX/
 │
 ├── README.md
 ├── figma-links.md
 └── assets/
     ├── aishwarya/
     │    ├── designing/
-    │    │    └── placeholder.txt
-    │    └── notes.md
+    │       └── placeholder.txt
+    │    
     │
     ├── shadil/
     │    ├── prototyping/
-    │    │    └── placeholder.txt
-    │    └── notes.md
+    │       └── placeholder.txt
+    │ 
     │
     └── hashim/
-         ├── presentation.pdf
          └── assets/
-              └── placeholder.txt'''
+              └── placeholder.txt```
